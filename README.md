@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer</h3>
 
 
-- 🔭 I’m currently working on **Social Media Web App**
+- 🔭 I’m currently working on **Atlassian App**
 
 - 🌱 I’m currently learning **Java,React and Angular**
 
